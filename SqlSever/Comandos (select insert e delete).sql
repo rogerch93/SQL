@@ -1,4 +1,5 @@
 
+--COMANDOS BASICOS
 
 select * from Clientes
 
