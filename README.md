@@ -8,3 +8,7 @@
 - Clientes
 - Pedidos
 - Produtos
+- Status
+- StatusPedidoItem
+
+###### Dentre outras Tabelas... (Curso Finalizado).
